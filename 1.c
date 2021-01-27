@@ -15,6 +15,7 @@
 int main(int argc, char *argv[])
 {
 	printf("hello !!!!\n");	
+	printf("1234567!!!!\n");
 	
 	return 0;
 }
